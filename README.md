@@ -11,5 +11,5 @@ A digital tool for the Palestine Children's Relief Fund (PCRF) to track medical 
 
 ## Roles
 * **Danial:** Project Manager & Backend Developer 
-* **Aleeba:** Frontend / UI Designer 
+* **Aleeba:** Frontend / UI Designer
 * **Simranjit:** Middleware & Reporting 
