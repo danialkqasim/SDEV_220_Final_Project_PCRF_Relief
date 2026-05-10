@@ -26,3 +26,7 @@ In high-pressure humanitarian environments, tracking life-saving supplies requir
 3. Run the main launcher:
    ```bash
    python main.py
+
+## 👥 Contributors
+* **Danial Qasim:** Project Lead & Backend Architect
+* **Aleeba Ghazanfar:** Frontend Engineering & UI Design
